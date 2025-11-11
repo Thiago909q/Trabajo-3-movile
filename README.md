@@ -6,7 +6,7 @@ Instalación desde cero
 
 Cloná o descargá el proyecto:
 
-git clone https://github.com/tuusuario/nombre-proyecto.git
+git clone https://github.com/Thiago909q/Trabajo-3-movile.git
 cd nombre-proyecto
 
 (Si no lo clonás, simplemente abrí la carpeta que tenés en tu escritorio en VS Code.)
